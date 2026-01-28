@@ -1,0 +1,30 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Arquivos do VS Code
+.vscode/
+*.code-workspace
+
+# Arquivos compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Configs do sistema
+.DS_Store
+Thumbs.db
+
+# Dados sensíveis (se usar)
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
